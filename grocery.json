@@ -1,0 +1,84 @@
+{
+    "grocery" :[
+        {
+            "SlNo":1,
+            "ItemName":"Rice",
+            "Quantity":10,
+            "Unit":"KG",
+            "Department":"Rice and Grocery",
+            "Notes":"Nirapara Matta Rice"
+        },
+        {
+            "SlNo":2,
+            "ItemName":"Cocconut Oil",
+            "Quantity":5,
+            "Unit":"KG",
+            "Department":"Oils",
+            "Notes":"KLF Nirmal oil"
+        },
+        {
+            "SlNo":3,
+            "ItemName":"Milk",
+            "Quantity":2,
+            "Unit":"Pkt",
+            "Department":"Milk and Milk Products",
+            "Notes":"Milma"
+        },
+        {
+            "SlNo":4,
+            "ItemName":"Onion",
+            "Quantity":2,
+            "Unit":"Kg",
+            "Department":"Fresh Vegetables",
+            "Notes":"Fresh Onion"
+        },
+        {
+            "SlNo":5,
+            "ItemName":"Detergent",
+            "Quantity":2,
+            "Unit":"Kg",
+            "Department":"Soap and Detergent",
+            "Notes":"Surf Excel"
+        },
+        {
+            "SlNo":6,
+            "ItemName":"Milk Bread",
+            "Quantity":1,
+            "Unit":"Pkt",
+            "Department":"Milk and Milk Products",
+            "Notes":"Buttery Milk Bread"
+        },
+        {
+            "SlNo":7,
+            "ItemName":"Agarbathi",
+            "Quantity":5,
+            "Unit":"Pkt",
+            "Department":"Pooja Items",
+            "Notes":"Cycle agarbathis"
+        },
+        {
+            "SlNo":8,
+            "ItemName":"Marker",
+            "Quantity":1,
+            "Unit":"No",
+            "Department":"School Items",
+            "Notes":"Black marker"
+        },
+        {
+            "SlNo":9,
+            "ItemName":"Grapes",
+            "Quantity":2,
+            "Unit":"Kg",
+            "Department":"Fruits and Vegetables",
+            "Notes":"Fresh Seedless Grapes"
+        },
+        {
+            "SlNo":10,
+            "ItemName":"Biscuits",
+            "Quantity":2,
+            "Unit":"Pkt",
+            "Department":"Snacks and Cookies",
+            "Notes":"DarkFantasy"
+        }
+    ]
+}
